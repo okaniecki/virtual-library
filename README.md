@@ -1,7 +1,7 @@
 # virtual-library
 
 # Who are the users of the software?
-The users of the software would be members of a library. This library management system is a software project that mimics and improves the idea of someone checking out books at their local library. 
+The users of the software would be members or administrators of a library. This library management system is a software project that mimics and improves the idea of someone checking out books at their local library. 
 
 # What is the purpose of the software?
 The purpose of this software is to mimic a library management system where the user can check out books and check the library's selection online, as well as see the books they have checked out and their library profile. This management system also includes the ability to have an admin party, that can oversee the users that are subscribed to the library, as well as add users or other admins. Like members, admins have the ability to check the library's selection, search for books within the library, and check their profile.

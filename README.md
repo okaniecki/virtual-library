@@ -17,3 +17,4 @@ There will be a login screen that can be used by both members and admins. Howeve
 
 # Why would anyone want to use the software over existing processes?
 Compared to other processes, this software gives the user the ability to check out books, which in practice, would reserve their spot, so when they visit the library, they could pick up their book with no hassle. Along with that, the user can see the library even when they're not at the library, and can search for books with ease. Along with that, with all the information that is given to administrators, if a user needs to know their id or see if they're a user, the admin can check with ease. 
+

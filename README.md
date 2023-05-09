@@ -1,4 +1,7 @@
 # virtual-library
+![Screenshot 2023-05-09 141727](https://github.com/okaniecki/virtual-library/assets/125310521/82f4975d-3732-4423-b2e5-a62c2912af04)
+![Screenshot 2023-05-09 141803](https://github.com/okaniecki/virtual-library/assets/125310521/3654d744-a5e3-444e-a6a2-3cc333536c17)
+![Screenshot 2023-05-09 141942](https://github.com/okaniecki/virtual-library/assets/125310521/a4464fbe-790e-4a61-9c02-a9cc7cadb47b)
 
 # Who are the users of the software?
 The users of the software would be members or administrators of a library. This library management system is a software project that mimics and improves the idea of someone checking out books at their local library. 
